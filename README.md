@@ -1,7 +1,3 @@
-Berikut README yang telah diperbarui sesuai permintaanmu:  
-
----
-
 # 🌱 Belajar Spring Boot: Konfigurasi & Properti  
 
 ![Java](https://img.shields.io/badge/Java-23-orange.svg)  
